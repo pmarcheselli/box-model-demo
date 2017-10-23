@@ -1,0 +1,31 @@
+    body {
+      color:grey;
+    }
+    
+    h1:hover {
+      color:pink;
+    }
+    
+    a:visited {
+      text-decoration: none;
+      color:green;
+    }
+    
+    header {
+      width:75%;
+      margin:auto;
+      background-color:beige;
+    }
+    
+    article {
+      width:50%;
+      margin:auto;
+      background-color:blanchedalmond;
+    }
+    
+    
+    footer {
+      border:1px solid red;
+      border-style: dotted;
+      border-radius:20px;
+    }
